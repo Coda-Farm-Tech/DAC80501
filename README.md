@@ -8,6 +8,6 @@ Extending the library to work with the multi-channel versions of these chips sho
 
 You can find more programming details here: https://www.ti.com/product/DAC80501
 
-I have provided a single example, which has been tested only at 3.3V on ESP32 with no I2C pin reassignments, at 100kHz and 400kHz.
+I have provided a single example, which has been tested only at 3.3V on ESP32 with no I2C pin reassignments, at 100kHz and 400kHz. Multi-channel code has not been tested.
 
 If you like the library it would be cool if you can give it a star. If you find bugs, please inform me. 
